@@ -1,10 +1,2 @@
 ﻿  workwitharray.cpp
-C:\projects\workwitharray\workwitharray.cpp(3,44): error C2131: выражение не определяется константой
-      C:\projects\workwitharray\workwitharray.cpp(3,44):
-      сбой вызван чтением переменной вне срока ее существования
-      C:\projects\workwitharray\workwitharray.cpp(3,44):
-      см. использование "size"
-  
-C:\projects\workwitharray\workwitharray.cpp(3,51): error C2548: "show_array": отсутствует аргумент, используемый по умолчанию для параметра 2.
-C:\projects\workwitharray\workwitharray.cpp(5,16): error C3863: тип массива "int [size]" является неназначаемым
-C:\projects\workwitharray\workwitharray.cpp(9,29): warning C4552: "<<": результат выражения не используется
+  workwitharray.vcxproj -> C:\projects\workwitharray\x64\Debug\workwitharray.exe
